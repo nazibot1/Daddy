@@ -1,6 +1,6 @@
 token=NDkwNjM4NjExNDU3MjQ1MTg0.Dn8OZw.JLOyojzRtn11EoPAyGEtFHSwhts
-owner=465701100352176128
-prefix=Na
+owner=479230716551495681
+prefix=Ee
 game=
 stayinchannel=true
 songinstatus=false
